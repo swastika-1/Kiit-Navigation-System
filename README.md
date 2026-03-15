@@ -81,18 +81,6 @@ npm run build
 # Drag the /dist folder to netlify.com/drop
 ```
 
-### Vercel
-```bash
-npm i -g vercel && vercel
-```
-
-### GitHub Pages
-Add `base: '/KIIT-Campus-Navigator/'` to `vite.config.js`, then:
-```bash
-npm run build
-# push /dist to gh-pages branch
-```
-
 ---
 
 ## 🗺️ Verified Campus Coordinates
