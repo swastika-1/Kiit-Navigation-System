@@ -6,7 +6,8 @@ A full-stack interactive campus navigation web app built with **React.js + Leafl
 
 ## 🚀 Live Demo
 
-> Add your deployed link here
+- **Vercel:** https://kiit-navigation-system.vercel.app
+- **GitHub Pages:** https://swastika-1.github.io/Kiit-Navigation-System
 
 ---
 
