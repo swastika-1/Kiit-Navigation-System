@@ -75,28 +75,6 @@ KIIT-Campus-Navigator/
 └── vite.config.js
 ```
 
----
-
-## ⚙️ Run Locally
-
-```bash
-# Clone
-git clone https://github.com/YOUR_USERNAME/KIIT-Campus-Navigator.git
-cd KIIT-Campus-Navigator
-
-# Install
-npm install
-
-# Run
-npm run dev
-```
-
-Open **http://localhost:5173**
-
----
-
-## 🚢 Deploy
-
 ### Netlify
 ```bash
 npm run build
